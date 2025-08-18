@@ -73,7 +73,7 @@ html {
 body {
     font-family: var(--uniqo-body-font);
     font-size: 15px;
-    font-weight: 500;
+    font-weight: 400;
     line-height:1.6;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
