@@ -1816,7 +1816,7 @@ ul.contact-details-one li{
 }
 ul.contact-details-one li a,ul.contact-details-one li p{
     color: var(--uniqo-black);
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 0;
     font-family: var(--uniqo-heading-font);
 }
